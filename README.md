@@ -97,7 +97,6 @@
 <br/>
 
 ## Top Open Source -
-[![ForSaleByOwner-ScraperTool](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=ForSaleByOwner-ScraperTool&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/ForSaleByOwner-ScraperTool)
 [![Selenium-Python](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Selenium-Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Selenium-Python)
 [![Social-Downloaders](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Social-Downloaders&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Social-Downloaders)
 [![Mustafahubs](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Mustafahubs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Mustafahubs)
