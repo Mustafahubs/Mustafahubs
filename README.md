@@ -61,10 +61,10 @@
 <p>
   <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
   
-  ✌️&emsp;Passionate about building automation tools and sharing practical tech knowledge.<br/><br/>
-  ❤️&emsp;Driven by clean code, AI integration, and always learning modern technologies.<br/><br/>
-  📧&emsp;Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/><br/>
-  💬&emsp;Let’s collaborate, learn, or solve something exciting together — <a href="https://github.com/Mustafahubs/Mustafahubs/issues">start here</a>!
+  ✌️ Passionate about building automation tools and sharing practical tech knowledge.<br/><br/>
+  ❤️ Driven by clean code, AI integration, and always learning modern technologies.<br/><br/>
+  📧 Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/><br/>
+  💬 Let’s collaborate, learn, or solve something exciting together — <a href="https://github.com/Mustafahubs/Mustafahubs/issues">start here</a>!
 </p>
 
 
