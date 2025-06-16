@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mustafahubs"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Self%20Taught%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;3.0%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/mustafahubs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=2ECC71&center=true&width=500&height=60&lines=Self-Taught+Software+Engineer;Python+Automation+Developer;FastAPI+%26+Web+Scraping+Specialist;4%2B+Years+of+Professional+Coding;Building+AI-Ready+Automation+Tools"></a>
 </p>
 
 <a href="https://medium.com/@ghulammustafapy">
@@ -59,14 +59,14 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
+  <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
   
- ✌️&emsp;Passionate about programming and eager to share knowledge with others.<br/><br/>
- ❤️&emsp;Love the art of coding and always eager to learn new technologies.<br/><br/>
- 📧&emsp;Feel free to reach out to me anytime at mustafay.dev@gmail.com<br/><br/>
- 💬&emsp;Ask me anything, and let's dive into the world of programming together! [here](https://github.com/Mustafahubs/Mustafahubs/issues)
-
+  ✌️&emsp;Passionate about building automation tools and sharing practical tech knowledge.<br/><br/>
+  ❤️&emsp;Driven by clean code, AI integration, and always learning modern technologies.<br/><br/>
+  📧&emsp;Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/><br/>
+  💬&emsp;Let’s collaborate, learn, or solve something exciting together — <a href="https://github.com/Mustafahubs/Mustafahubs/issues">start here</a>!
 </p>
+
 
 <br/>
 <br/>
