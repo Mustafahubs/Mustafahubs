@@ -61,11 +61,11 @@
 <p>
   <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
   
-  ✌️ Passionate about building automation tools and sharing practical tech knowledge.<br/><br/>
-  ❤️ Driven by clean code, AI integration, and always learning modern technologies.<br/><br/>
-  📧 Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/><br/>
+  ✌️ Passionate about building automation tools and sharing practical tech knowledge.<br/>
+  ❤️ Driven by clean code, AI integration, and always learning modern technologies.<br/>
+  📧 Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/>
   💬 Let’s collaborate, learn, or solve something exciting together — <a href="https://github.com/Mustafahubs/Mustafahubs/issues">start here</a>!
-  🚀 Helping businesses automate with FastAPI & intelligent scraping.<br/><br/>
+  🚀 Helping businesses automate with FastAPI & intelligent scraping.<br/><
 </p>
 
 
