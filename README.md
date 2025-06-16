@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mustafahubs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=2ECC71&center=true&width=500&height=60&lines=Self-Taught+Software+Engineer;Python+Automation+Developer;FastAPI+%26+Web+Scraping+Specialist;4%2B+Years+of+Professional+Coding;Building+AI-Ready+Automation+Tools"></a>
+  <a href="https://github.com/mustafahubs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=00ADB5&background=222831&center=true&width=500&height=60&lines=Self-Taught+Software+Engineer;Python+Automation+Developer;FastAPI+%26+Web+Scraping+Specialist;4%2B+Years+of+Professional+Coding;Building+AI-Ready+Automation+Tools"></a>
 </p>
 
 <a href="https://medium.com/@ghulammustafapy">
@@ -65,14 +65,16 @@
   ❤️ Driven by clean code, AI integration, and always learning modern technologies.<br/><br/>
   📧 Reach out anytime at <strong>mustafay.dev@gmail.com</strong><br/><br/>
   💬 Let’s collaborate, learn, or solve something exciting together — <a href="https://github.com/Mustafahubs/Mustafahubs/issues">start here</a>!
+  🚀 Helping businesses automate with FastAPI & intelligent scraping.<br/><br/>
 </p>
 
 
+
 <br/>
 <br/>
 <br/>
 
-## Use To Code
+## Tools & Tech Stack
 <p align="center">
   <img width="350" src="/assets/programmer.gif" alt="Programmer.gif"/>
 </p>
@@ -125,3 +127,6 @@
 </a>
 
 [![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafahubs&theme=react)](https://github.com/mustafahubs/github-readme-activity-graph)
+
+**Want to work together?**  
+Message me at [mustafay.dev@gmail.com](mailto:mustafay.dev@gmail.com) or open an [issue here](https://github.com/Mustafahubs/Mustafahubs/issues).
