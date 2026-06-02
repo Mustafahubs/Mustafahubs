@@ -88,14 +88,32 @@ class Mustafa:
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Mustafahubs/PyStream">🔵 PyStream</a></h4>
-<p>Real-time multi-monitor screen sharing for classrooms. No install, no accounts — students join with just a link.</p>
+<p>Classroom screen sharing over the LAN — teacher streams multiple monitors, students join in any browser with just a link. No install, no account needed.</p>
+<p>
+  <strong>Voice chat</strong> (push-to-talk, per-speaker pipeline, admin mute) ·
+  <strong>Group chat</strong> with Markdown, code snippets (10 languages), file sharing, emoji reactions &amp; reply threads ·
+  <strong>Per-monitor privacy</strong> &amp; admin controls · Built with FastAPI + WebSockets
+</p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
+<img src="https://img.shields.io/badge/WebSockets-grey?style=flat-square&logo=socket.io&logoColor=white" alt="websockets"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
+<br/>
 <img src="https://img.shields.io/github/stars/mustafahubs/PyStream?style=flat-square&color=00ADB5&logo=github" alt="stars"/>
 <img src="https://img.shields.io/github/forks/mustafahubs/PyStream?style=flat-square&color=7F3FBF" alt="forks"/>
 <img src="https://img.shields.io/github/languages/top/mustafahubs/PyStream?style=flat-square" alt="language"/>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Mustafahubs/RaabtaX">🔵 RaabtaX</a></h4>
-<p>Cross-platform real-time mobile chat app built with Python Flet, PostgreSQL, and Redis.</p>
+<p>Cross-platform real-time chat app — channels, DMs, typing indicators, and presence. Runs on desktop, web, Android, and iOS from a single Python codebase.</p>
+<p>
+  <strong>2FA</strong> with Google Authenticator (TOTP) ·
+  <strong>Redis pub/sub</strong> for live message delivery ·
+  <strong>Async PostgreSQL</strong> with auto-schema · Custom <em>Obsidian Flux</em> design system
+</p>
+<img src="https://img.shields.io/badge/Flet-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flet"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="redis"/>
+<br/>
 <img src="https://img.shields.io/github/stars/mustafahubs/RaabtaX?style=flat-square&color=00ADB5&logo=github" alt="stars"/>
 <img src="https://img.shields.io/github/forks/mustafahubs/RaabtaX?style=flat-square&color=7F3FBF" alt="forks"/>
 <img src="https://img.shields.io/github/languages/top/mustafahubs/RaabtaX?style=flat-square" alt="language"/>
