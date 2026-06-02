@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/banner.svg" alt="Ghulam Mustafa — Senior Python Developer"/>
+<img src="/assets/banner.svg" alt="Ghulam Mustafa - Senior Python Developer"/>
 
 <a href="https://github.com/mustafahubs">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=00ADB5&center=true&vCenter=true&width=580&height=52&lines=Senior+Python+Developer;FastAPI+%26+Automation+Specialist;AI+Agent+%26+LLM+Integration+Engineer;Real-Time+App+Builder+%28Flet+%2B+PostgreSQL%29;Python+Automation+%26+Web+Scraping;4%2B+Years+of+Professional+Coding"/>
@@ -114,7 +114,7 @@ class Mustafa:
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Mustafahubs/PyStream">🔵 PyStream</a></h4>
-<p>Classroom screen sharing over the LAN — teacher streams multiple monitors, students join in any browser with just a link. No install, no account needed.</p>
+<p>Classroom screen sharing over the LAN. Teacher streams multiple monitors, students join in any browser with just a link. No install, no account needed.</p>
 <p>
   <strong>Voice chat</strong> (push-to-talk, per-speaker pipeline, admin mute) ·
   <strong>Group chat</strong> with Markdown, code snippets (10 languages), file sharing, emoji reactions &amp; reply threads ·
@@ -130,7 +130,7 @@ class Mustafa:
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Mustafahubs/RaabtaX">🔵 RaabtaX</a></h4>
-<p>Cross-platform real-time chat app — channels, DMs, typing indicators, and presence. Runs on desktop, web, Android, and iOS from a single Python codebase.</p>
+<p>Cross-platform real-time chat app with channels, DMs, typing indicators, and presence. Runs on desktop, web, Android, and iOS from a single Python codebase.</p>
 <p>
   <strong>2FA</strong> with Google Authenticator (TOTP) ·
   <strong>Redis pub/sub</strong> for live message delivery ·
