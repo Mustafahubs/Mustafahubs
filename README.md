@@ -173,12 +173,16 @@ class Mustafa:
 
 <div align="center">
 
-<a href="https://github.com/mustafahubs">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-</a>
-<a href="https://github.com/mustafahubs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahubs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-</a>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahubs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -194,7 +198,7 @@ class Mustafa:
 
 **💼 Open to collaborations, freelance work, and exciting projects!**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="180"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600"/>
 
 📧 [mustafay.dev@gmail.com](mailto:mustafay.dev@gmail.com) &nbsp;•&nbsp; 💬 [Open an Issue](https://github.com/Mustafahubs/Mustafahubs/issues)
 
