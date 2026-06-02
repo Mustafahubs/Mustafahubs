@@ -173,18 +173,6 @@ class Mustafa:
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahubs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <a href="https://github.com/mustafahubs">
   <img src="https://streak-stats.demolab.com?user=mustafahubs&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
