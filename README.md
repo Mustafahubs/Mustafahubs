@@ -176,7 +176,7 @@ class Mustafa:
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahubs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
