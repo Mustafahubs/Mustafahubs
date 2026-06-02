@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Mustafa&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Python%20Developer%20%7C%20Automation%20%26%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Mustafa&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Python%20Developer%20%7C%20Automation%20%26%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50"/>
 
 <a href="https://github.com/mustafahubs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=00ADB5&center=true&vCenter=true&width=620&height=60&lines=Senior+Python+Developer;FastAPI+%26+Automation+Specialist;AI+Agent+%26+LLM+Integration+Engineer;Real-Time+App+Builder+%28Flet+%2B+PostgreSQL%29;Open+Source+Contributor;4%2B+Years+of+Professional+Coding"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=00ADB5&center=true&vCenter=true&width=620&height=60&lines=Senior+Python+Developer;FastAPI+%26+Automation+Specialist;AI+Agent+%26+LLM+Integration+Engineer;Real-Time+App+Builder+%28Flet+%2B+PostgreSQL%29;Python+Automation+%26+Web+Scraping;4%2B+Years+of+Professional+Coding"/>
 </a>
 
 <p>
@@ -21,6 +21,12 @@
   </a>
   <a href="https://facebook.com/selfdev.py">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/mustafahubs" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://mustafahubs.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -151,6 +157,6 @@ class Mustafa:
 
 📧 [mustafay.dev@gmail.com](mailto:mustafay.dev@gmail.com) &nbsp;•&nbsp; 💬 [Open an Issue](https://github.com/Mustafahubs/Mustafahubs/issues)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
