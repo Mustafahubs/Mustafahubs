@@ -1,0 +1,57 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ADB5"/>
+      <stop offset="100%" stop-color="#7F3FBF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="180" fill="url(#bg)"/>
+
+  <!-- Top accent bar -->
+  <rect width="800" height="3" fill="url(#accent)"/>
+
+  <!-- Bottom accent bar -->
+  <rect y="177" width="800" height="3" fill="url(#accent)"/>
+
+  <!-- Subtle circle glows -->
+  <circle cx="80"  cy="90" r="55" fill="#00ADB5" fill-opacity="0.04"/>
+  <circle cx="720" cy="90" r="65" fill="#7F3FBF" fill-opacity="0.04"/>
+  <circle cx="400" cy="175" r="110" fill="#00ADB5" fill-opacity="0.02"/>
+
+  <!-- Left vertical accent line -->
+  <rect x="36" y="46" width="2" height="88" rx="1" fill="#00ADB5" fill-opacity="0.45"/>
+
+  <!-- Right vertical accent line -->
+  <rect x="762" y="46" width="2" height="88" rx="1" fill="#7F3FBF" fill-opacity="0.45"/>
+
+  <!-- Code decoration left -->
+  <text x="44" y="122" font-family="Courier New, monospace" font-size="52" fill="#00ADB5" fill-opacity="0.07" font-weight="bold">&lt;/&gt;</text>
+
+  <!-- Code decoration right -->
+  <text x="662" y="120" font-family="Courier New, monospace" font-size="44" fill="#7F3FBF" fill-opacity="0.07" font-weight="bold">{ }</text>
+
+  <!-- Main name -->
+  <text x="400" y="92"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, Helvetica, sans-serif"
+    font-size="44"
+    font-weight="700"
+    fill="#00ADB5">Ghulam Mustafa</text>
+
+  <!-- Underline divider -->
+  <rect x="264" y="103" width="272" height="2" rx="1" fill="#00ADB5" fill-opacity="0.4"/>
+
+  <!-- Subtitle -->
+  <text x="400" y="140"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, Helvetica, sans-serif"
+    font-size="14"
+    letter-spacing="0.8"
+    fill="#8B949E">Senior Python Developer  ·  Automation &amp; AI Engineer  ·  Pakistan</text>
+</svg>
