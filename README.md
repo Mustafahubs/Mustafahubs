@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" alt="Coding"/>
+<img align="right" width="270" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Happy Coder"/>
 
 ```python
 class Mustafa:
